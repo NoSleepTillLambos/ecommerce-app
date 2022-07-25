@@ -20,7 +20,7 @@ export default function ImgMediaCard() {
             Irons
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            The latest to join the callaway army in taylormade
+            TShop our latest and greatest range of irons
           </Typography>
         </CardContent>
         <CardActions>
